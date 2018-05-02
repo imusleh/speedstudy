@@ -1,38 +1,5 @@
 # SpeedStudy Plan
 
-## Progress
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
-
-* [Bolu](https://github.com/ajibs/progress-2018/blob/master/README.md)
-* [Kornil](https://github.com/Kornil/speedstudy/blob/master/progress-2018/Kornil-2018/Kornil-progress-2018.md)
-* [Matty22](https://github.com/matty22/speedstudy)
-* [P1xt](https://github.com/P1xt/p1xt-progress)
-* [fiftyfivebells](https://github.com/fiftyfivebells/2018-study-plan)
-* [Osycon](https://github.com/osycon/osycon-progress)
-* [SharpEleven](https://github.com/SharpEleven91/StudyGuide2018)
-* [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
-* [mayurpande](https://github.com/mayurpande/speedstudy)
-* [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
-* [akhilome](https://github.com/akhilome/ss2018)
-* [bernar83](https://github.com/bernar83/2018-study-plan)
-* [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
-* [buoyantair](https://github.com/buoyantair/progress)
-* [jesuodz](https://github.com/jesuodz/speedstudy)
-* [LydiaVuj](https://github.com/LydiaVuj/speedstudy2018)
-* [mbazhlekova](https://github.com/mbazhlekova/2018-speedstudy)
-* [RishiSpeets](https://github.com/RishiSpeets/study-progress)
-* [TheSabby](https://github.com/TheSabby/speed-study)
-* [Diana](https://github.com/dianastanciu/speedstudy2018)
-* [kevcomedia](https://github.com/kevcomedia/progress-2018)
-* [AliMahmoud7](https://github.com/AliMahmoud7/my-progress)
-* [ahmedvip2008](https://github.com/ahmedvip2008/progress-2018)
-* [AmirF27](https://github.com/AmirF27/2018-progress)
-* [jer244](https://github.com/jer244/progress)
-* [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
-* [Zenrer](https://github.com/Zenrer/speedstudy)
-* [Clif-D](https://github.com/Clif-D/Road-to-Software-Engineer)
-* [Nedu](https://github.com/Nedu/nedu-progress)
-* [Your Progress Here](./progress-2018)
 
 ## Abstract
 
