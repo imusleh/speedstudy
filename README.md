@@ -20,7 +20,7 @@ Total Points Earned: 0
 
 S/N | Date     | Activity       | Points | Links                                                                                  
 | - | -------- | -------------- | ------ | ------------------------------------------- |
-| 1 | 5/02/2018| Setup goal list| 0      |                                             |
+| 1 | 6/20/2018| Setup goal list| 1      |                                             |
 
 
 
